@@ -6,5 +6,5 @@
 使用方法：
 
     NumAnim.startAnim(textView, 1253.47); //第二个参数是textView要显示的价格
-    NumAnim.startAnim(textView, 1253.47, 1000); //设置滚动动画持续1秒 （默认500毫秒）
+    NumAnim.startAnim(textView, 1253.47, 1000); //第三个参数是设置滚动动画持续1秒 （默认500毫秒）
 
